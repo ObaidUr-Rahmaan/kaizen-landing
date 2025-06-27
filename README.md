@@ -6,3 +6,6 @@ Build lightning fast ⚡️ landing pages with this template.
 
 - Framework: [Astro](https://astro.build/)
 - Authentication: [Clerk](https://clerk.com/)
+  
+
+Deployed to [Cloudflare Workers](https://developers.cloudflare.com/workers/)
